@@ -1,0 +1,8 @@
+Sharpe Ratio: 4.06
+Sortino Ratio: 7.58
+Win Rate (%): 56.92
+Risk-Reward Ratio: 2.22
+Average Profit (%): 4.03
+Average Hold Duration (days): 5.15
+Static Return (%): 261.71
+Compound Return (%): 955.05
