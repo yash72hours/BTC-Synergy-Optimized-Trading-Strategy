@@ -1,7 +1,7 @@
 
 # **Crypto Synergy Optimizer**
 
-### Trade Summary 
+### Trade Summary (Backtest Period: 2018-2022)
 1. Sharpe Ratio: 4.06
 2. Sortino Ratio: 7.58
 3. Win Rate (%): 56.92
