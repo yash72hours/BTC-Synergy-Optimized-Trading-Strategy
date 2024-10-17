@@ -1,6 +1,18 @@
 
 # **Crypto Synergy Optimizer**
 
+### Trade Summary 
+1. Sharpe Ratio: 4.06
+2. Sortino Ratio: 7.58
+3. Win Rate (%): 56.92
+4. Risk-Reward Ratio: 2.22
+5. Average Profit (%): 4.03
+6. Average Hold Duration (days): 5.15
+7. Static Return (%): 261.71
+8. Compound Return (%): 955.05
+
+---
+
 ## Strategy Overview
 
 The **Crypto Synergy Optimizer** is a sophisticated technical analysis-driven strategy tailored for trading Bitcoin on a daily time frame. It combines several classic and advanced indicators such as the Moving Average Convergence Divergence (MACD), Stochastic Relative Strength Index (StochRSI), and Average True Range (ATR) to optimize trade entries, exits, and risk management. This synergy of indicators forms a balanced system that adapts to varying market conditions, identifying both trend-following opportunities and potential reversals.
