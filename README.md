@@ -30,13 +30,11 @@ The **Crypto Synergy Optimizer** is a sophisticated technical analysis-driven st
 ### Trade Execution Flow
 
 - **Entry Conditions:**
-  - A buy signal is triggered when the MACD line crosses above the signal line, confirming upward momentum.
-  - The StochRSI must be in an oversold region, signaling that the asset is ready for a potential reversal or strong continuation.
+  The algorithm follows a weighted strategy system and is based on a combination of well-documented indicators. First, the algorithm calculated the weight_strategy, which represents a value from 0 to 5 of the number of fulfilled strategies. To open a position, the value of weight_strategy must be greater than the value of weight_signal, by default 2.
 
 - **Exit Conditions:**
   - Take profit is executed when the price hits 7.5% above/below the entry price.
   - A stop loss is placed 3% away from the entry price to protect against adverse market moves.
-  - The trade is also closed if the MACD line crosses back below the signal line for long trades (or above for short trades).
 
 ---
 
